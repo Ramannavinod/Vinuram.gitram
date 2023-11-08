@@ -1,0 +1,21 @@
+*{
+      background-color: mediumseagreen;
+      background-image: url(example.jpeg);
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      
+}
+form{
+      text-align: center;
+      font-size: 30px;
+}
+h1:hover{
+      color: blue;
+}
+h1{
+      text-align: center;
+
+}
+form:hover{
+      color: khaki;
+}
